@@ -29,13 +29,13 @@
 </p>
 
 # Profile visits
+![](https://komarev.com/ghpvc/?username=namfrans&style=for-the-badge)
 
+![Frans Nambuli Github Stats](https://github-readme-stats.vercel.app/api?username=namfrans&show_icons=true&include_all_commits=true&theme=radical)
 
-![Santosh Yadav Github Stats](https://github-readme-stats.vercel.app/api?username=namfransv&show_icons=true&include_all_commits=true&theme=radical)
+![Frans Nambuli Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=namfrans&layout=compact&theme=radical)
 
-![Santosh Yadav Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=namfrans&layout=compact&theme=radical)
-
-[![Santosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=namfrans&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Frans's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=namfrans&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
