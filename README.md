@@ -22,8 +22,8 @@
 <p>
 
 - 🔭 I’m currently working on [notepad-io](https://github.com/notepad-io)
-- 🌱 I’m currently mastering MEAN stack and React Native
-- 💬 Ask me about Mobile development, DSA & AI/ML
+- 🌱 Currently mastering MEAN stack and React Native
+- 💬 Ask me about Mobile development, DSA, AI/ML and Data analysis
 - 📫 How to reach me: [namfrans@gmail.com](namfrans@gmail.com)
 
 </p>
