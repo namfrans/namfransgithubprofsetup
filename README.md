@@ -13,7 +13,7 @@
    <img align="left" alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </a>&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/frans-nt-nambuli/">
+<a href="https://www.linkedin.com/in/frans-nt-nambuli-6497181a6/">
    <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <p/>
