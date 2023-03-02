@@ -31,6 +31,7 @@
 # Profile visits
 ![](https://komarev.com/ghpvc/?username=namfrans&style=for-the-badge)
 
+# Stats
 ![Frans Nambuli Github Stats](https://github-readme-stats.vercel.app/api?username=namfrans&show_icons=true&include_all_commits=true&theme=radical)
 
 ![Frans Nambuli Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=namfrans&layout=compact&theme=radical)
