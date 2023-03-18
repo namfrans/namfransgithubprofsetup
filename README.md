@@ -22,7 +22,7 @@
 <p>
 
 - 🔭 I’m currently working on [notepad-io](https://github.com/notepad-io)
-- 🌱 Currently mastering MEAN stack and React Native
+- 🌱 Currently mastering JavaScript
 - 💬 Ask me about Mobile development, DSA, AI/ML and Data analysis
 - 📫 How to reach me: [namfrans@gmail.com](namfrans@gmail.com)
 
