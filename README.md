@@ -1,4 +1,4 @@
-### Hi there, I'm [Frans Nambuli!](https://namfrans.netlify.app) 👋
+### Hi there, I'm [Frans Nambuli!](https://namfrans.vercel.app) 👋
 
 <p>
 <a href="https://twitter.com/FransNambuli">
