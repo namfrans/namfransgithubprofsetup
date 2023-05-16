@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently working on [notepad-io](https://github.com/notepad-io)
 - 🌱 Currently mastering JavaScript
-- 💬 Ask me about Mobile development, DSA, AI/ML and Data analysis
+- 💬 Ask me about Mobile development, DSA, NLP, Computer Vision and Cloud Computing
 - 📫 How to reach me: [namfrans@gmail.com](namfrans@gmail.com)
 
 </p>
