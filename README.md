@@ -1,5 +1,5 @@
 ### Hi there, I'm [Frans Nambuli!](https://namfrans.onrender.com) 👋
-
+<a href="https://app.daily.dev/namfrans"><img src="https://api.daily.dev/devcards/89e5cb9565e34e62b7bbcc6e276805ab.png?r=mq7" width="400" alt="Frans Nambuli's Dev Card"/></a>
 <p>
 <a href="https://twitter.com/FransNambuli">
    <img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -15,7 +15,7 @@
 
 <a href="https://www.linkedin.com/in/frans-nt-nambuli-6497181a6/"></a>
 <p/>
-<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <br/>
 <p>
 
@@ -38,7 +38,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-<a href="https://app.daily.dev/namfrans"><img src="https://api.daily.dev/devcards/89e5cb9565e34e62b7bbcc6e276805ab.png?r=mq7" width="400" alt="Frans Nambuli's Dev Card"/></a>
+
 <!-- BLOG-POST-LIST:END -->
 
 # Recent GitHub Activity
