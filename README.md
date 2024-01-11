@@ -25,7 +25,7 @@
 - 📫 How to reach me: [namfrans@gmail.com](namfrans@gmail.com)
 
 </p>
-<a href="https://app.daily.dev/namfrans"><img src="https://api.daily.dev/devcards/89e5cb9565e34e62b7bbcc6e276805ab.png?r=mq7" width="400" alt="Frans Nambuli's Dev Card"/></a>
+
 # Profile visits
 ![](https://komarev.com/ghpvc/?username=namfrans&style=for-the-badge)
 
@@ -38,7 +38,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- Pending....
+<a href="https://app.daily.dev/namfrans"><img src="https://api.daily.dev/devcards/89e5cb9565e34e62b7bbcc6e276805ab.png?r=mq7" width="400" alt="Frans Nambuli's Dev Card"/></a>
 <!-- BLOG-POST-LIST:END -->
 
 # Recent GitHub Activity
