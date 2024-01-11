@@ -14,9 +14,8 @@
 </a>&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/frans-nt-nambuli-6497181a6/"></a>
-<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <p/>
-
+<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <br/>
 <p>
 
