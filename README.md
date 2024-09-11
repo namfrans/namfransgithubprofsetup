@@ -19,7 +19,7 @@
 <br/>
 <p>
 
-- 🔭 I’m currently working on [notepad-io](https://github.com/notepad-io)
+- 🔭 I’m currently working on [myphonechain](https://github.com/notepad-io)
 - 🌱 Currently mastering JavaScript
 - 💬 Ask me about SharePoint, Mobile Technologies and Blockchain.
 - 📫 How to reach me: [namfrans@gmail.com](namfrans@gmail.com)
